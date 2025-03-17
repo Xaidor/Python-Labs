@@ -1,5 +1,5 @@
 # Python-Labs
-Exploring Python
+#### Exploring Python
 
 # COURSE: A deep understanding of deep learning
 ### Lesson plans from
